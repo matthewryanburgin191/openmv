@@ -1,4 +1,0 @@
-background
-Trunk
-post
-trunk
